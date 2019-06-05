@@ -1,0 +1,22 @@
+{
+  "name": "briawebsite",
+  "version": "1.0.0",
+  "description": "Bria Event Website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hondohondo/Bria-Website.git"
+  },
+  "author": "Moses Nandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hondohondo/Bria-Website/issues"
+  },
+  "homepage": "https://github.com/Hondohondo/Bria-Website#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
